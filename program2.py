@@ -1,0 +1,8 @@
+a=int(input("Enter a="))
+b=int(input("Enter b="))
+print("Addition of a&b=",a+b)
+print("Substraction of a&b=",a-b)
+print("Division of a&b=",a/b)
+print("multiplication of a&b=",a*b)
+print("modulus of a&b=",a%b)
+print("exponential of a&b=",a**b)
