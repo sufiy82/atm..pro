@@ -1,0 +1,11 @@
+s={1,2,2,4,5,3,6,6,4}
+z=list(s)
+print(z)
+a=tuple(s)
+print(a)
+s.remove(4)
+print(s)
+s.add(100)
+print(s)
+s.update([7,8,9])
+print(s)
