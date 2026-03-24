@@ -1,0 +1,14 @@
+i=1
+sum=0
+while(i<=10):
+    print(i)
+    sum=sum+i
+    i+=1
+    print("sum=",sum)
+i=1
+p=1
+while(i<=10):
+    print(i)
+    p=p*i
+    i+=1
+    print("p=",p)
